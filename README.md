@@ -4,7 +4,6 @@
 
 > 可生成shellcode，与目前主流免杀方式相结合
 
-> 今天朋友告诉我，有人把本项目发到了某论坛，还弄成了积分下载传到了网盘当成自己做的东西，本人表示深深的鄙视
 <p>
     <img alt="大灰狼图片" src="https://github.com/0xCuSO4/DHLYK/blob/main/images/1.png?raw=true"  style="max-width:100%;">
 </p>
